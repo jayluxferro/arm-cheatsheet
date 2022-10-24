@@ -1,6 +1,6 @@
 # ARM cheat sheet
 
-All ARM assembly command names in a pdf summary.
+All ARM assembly command names.
 
 
 # ![preview](./arm-cheatsheet.png)
